@@ -17,3 +17,7 @@ Aprendi a usar:
 - ```isNaN()```;
 - ```!var```;
 - ```.toString(2)```.
+
+### ➕ Melhorias 
+- função que checa se o que foi digitado é um número, caso não seja, emite um alerta.
+- ```placeholder``` no ```input```.
